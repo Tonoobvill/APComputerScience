@@ -1,6 +1,6 @@
 /**
- * Name: Timo Fauxnam
- * Date: August 28, 2024
+ * @author Timo Fauxnam
+ * @version August 28, 2024
  * Class: AP Computer Science A
  * Assignment: 01.13 Challenge Program / CurrencyV1
  * Purpose: Convert currencies using exchange rates.
