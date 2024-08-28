@@ -1,6 +1,6 @@
 /**
- * Name: Timo Fauxnam
- * Date: August 26, 2024
+ * @author Timo Fauxnam
+ * @version August 26, 2024
  * Class: AP Computer Science A
  * Assignment: 01.04 Student Contact Card / StudentInfoCard
  * Purpose: Give my info
