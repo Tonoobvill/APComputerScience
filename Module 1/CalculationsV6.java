@@ -1,6 +1,6 @@
 /**
- * Name: Timo Fauxnam
- * Date: August 27, 2024
+ * @author Timo Fauxnam
+ * @version August 27, 2024
  * Class: AP Computer Science A
  * Assignment: 01.09 Primitive Data Type: doubles / CalculationsV6
  * Purpose: Perform calculations on integers and decimals
