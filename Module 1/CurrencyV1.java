@@ -10,6 +10,7 @@
  *<+s>: IT'S WORKING I GOT IT WORKING.
  *<-s>: I used two sheets of paper trying to figure this out...
  */
+// Used Bank of Americas Foreign Currency Converter https://www.bankofamerica.com/foreign-exchange/currency-converter/
 public class CurrencyV1 {
     public static void main(String[] args) {
         // Declare and initialize local variables
