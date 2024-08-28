@@ -1,6 +1,6 @@
 /**
- * Name: Timo Fauxnam
- * Date: August 27, 2024
+ * @author Timo Fauxnam
+ * @version August 27, 2024
  * Class: AP Computer Science A
  * Assignment: 01.12 Pitfalls, Surprises, and Shortcuts / GradesV2
  * Purpose: Calculates the total points and average grade for a series of test scores.
