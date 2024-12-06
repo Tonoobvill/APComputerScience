@@ -1,5 +1,5 @@
  /**
- * @author Alex Pisoni
+ * @author Timo Fauxnam
  * @version December 6, 2024
  * Class: AP Computer Science A
  * Assignment: 04.06 Writing Text Files / SecretPasscode
