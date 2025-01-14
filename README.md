@@ -1,5 +1,5 @@
 ## Java programs for an AP Computer Science A class
-Most recent assignment: [05.05 StudentTesterV3.java - January 8, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.05%20Default%20Constructors/StudentTesterV3.java)
+Most recent assignment: [05.08 V8Tester.java - January 14, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.08%20Constructing%20Multiple%20Objects/V8Tester.java)
 
 
 ### Module 1
@@ -25,4 +25,6 @@ Most recent assignment: [05.05 StudentTesterV3.java - January 8, 2025](https://g
 ### Module 5
 [05.02 PlanetGravity.java - December 17, 2024](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/PlanetGravity.java)\
 [05.05 StudentV3.java - January 8, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.05%20Default%20Constructors/StudentV3.java)\
-[05.05 StudentTesterV3.java - January 8, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.05%20Default%20Constructors/StudentTesterV3.java)
+[05.05 StudentTesterV3.java - January 8, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.05%20Default%20Constructors/StudentTesterV3.java)\
+[05.08 V8.java - January 14, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.08%20Constructing%20Multiple%20Objects/V8.java)\
+[05.08 V8Tester.java - January 14, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.08%20Constructing%20Multiple%20Objects/V8Tester.java)
