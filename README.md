@@ -1,5 +1,6 @@
 ## Java programs for an AP Computer Science A class
-Most recent assignment: [05.08 V8Tester.java - January 14, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.08%20Constructing%20Multiple%20Objects/V8Tester.java)
+Most recent assignment: [06.02 CityWeatherTesterV2.java - March 7, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%206/06.02%20Formatting%20Output/CityWeatherTesterV2.java)
+
 
 
 ### Module 1
@@ -28,3 +29,7 @@ Most recent assignment: [05.08 V8Tester.java - January 14, 2025](https://github.
 [05.05 StudentTesterV3.java - January 8, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.05%20Default%20Constructors/StudentTesterV3.java)\
 [05.08 V8.java - January 14, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.08%20Constructing%20Multiple%20Objects/V8.java)\
 [05.08 V8Tester.java - January 14, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%205/05.08%20Constructing%20Multiple%20Objects/V8Tester.java)
+
+### Module 6
+[06.02 CityWeatherV2.java - March 7, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%206/06.02%20Formatting%20Output/CityWeatherV2.java)\
+[06.02 CityWeatherTesterV2.java - March 7, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%206/06.02%20Formatting%20Output/CityWeatherTesterV2.java)
