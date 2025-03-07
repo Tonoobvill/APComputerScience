@@ -1,8 +1,6 @@
 ## Java programs for an AP Computer Science A class
 Most recent assignment: [06.02 CityWeatherTesterV2.java - March 7, 2025](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%206/06.02%20Formatting%20Output/CityWeatherTesterV2.java)
 
-
-
 ### Module 1
 [01.04 StudentInfoCard.java - August 26, 2024](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%201/StudentInfoCard.java)\
 [01.09 CalculationsV6.java - August 27, 2024](https://github.com/Tonoobvill/APComputerScience/blob/main/Module%201/CalculationsV6.java)\
